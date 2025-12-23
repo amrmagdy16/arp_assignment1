@@ -34,3 +34,6 @@ This repository has been updated with Assignment 2 requirements and significant 
 ## How to Run
 1. **Compile:** `./compile.sh`
 2. **Execute:** `./run.sh`
+
+### 🎮 Simulation Preview
+![Drone Simulation Screenshot](graph/simulation_screenshot.png)
