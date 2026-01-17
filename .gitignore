@@ -1,0 +1,15 @@
+# Ignore Object files
+*.o
+
+# Ignore Logs
+log/*.txt
+
+# Ignore Executables (The files created by your C code)
+server
+input_window
+output_window
+obstacle
+target
+watchdog
+network
+network_bridge
